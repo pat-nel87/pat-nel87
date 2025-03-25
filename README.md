@@ -21,8 +21,3 @@
 - 📝 Blog: [My Blog](https://patricknelson-devops.net)  
 
 ---
-*“If it compiles, it ships. If it deploys, it’s production-ready.”* 🚀  
-
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pat-nel87&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pat-nel87&layout=compact&theme=radical)  
