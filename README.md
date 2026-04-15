@@ -8,7 +8,7 @@ I grew up on the command line — starting with a used Tandy 286 running MS-DOS 
 
 - Building MCP-based diagnostic servers that give AI models structured access to real-time infrastructure state
 - Developing approaches to AI observability using MCP architectures as a control plane for Azure resources
-- Leading GitHub Copilot adoption and governance (GH-300 certified)
+- Leading GitHub Copilot adoption and training
 - Writing Go-based infrastructure tooling for monitoring, diagnostics, and operational workflows
 - Completing my BS in Computer Science at Arizona State University (Fulton Schools of Engineering)
 - 📖 Reading [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) (Chip Huyen, O'Reilly) and [Introduction to Classical and Quantum Computing](https://www.amazon.com/dp/B09QP2ML3P)
